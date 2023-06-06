@@ -1,0 +1,7 @@
+site_name: 'hello-world-davidsal Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
